@@ -1,3 +1,4 @@
+Each of the jupyter notebooks are independent and can be run seperately. Just make the necessary path changes to run the files.
 # Twitter
 Twitter Cluster Analysis
 
