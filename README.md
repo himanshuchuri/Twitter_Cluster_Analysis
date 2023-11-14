@@ -1,6 +1,4 @@
-Each of the jupyter notebooks are independent and can be run seperately. Just make the necessary path changes to run the files.
-# Twitter
-Twitter Cluster Analysis
+# Twitter Cluster Analysis
 
 Abstract
 
@@ -45,5 +43,9 @@ Objectives
 
 1.	To identify the dominant topics and themes of discussion within each community on Twitter, which will help us understand the interests and concerns of people in these communities.
 2.	To explore the similarities and differences between the communities in terms of their language use, sentiment, and discourse patterns, which will help us gain insights into the patterns and behaviours of these communities on Twitter.
+
+How to run:
+
+Each of the jupyter notebooks are independent and can be run seperately. Just make the necessary path changes to run the files.
 
 
